@@ -1,0 +1,6 @@
+Notification service endpoints
+- register (takes userId from User service), login
+- request to join team (teamId, userId, managerId)
+- get requests to join team (teamId, for manager only)
+- add vacation change notification (userId, vacationId, teamId)
+- get vacation change notifications (userId, for normal user their own, manager whole team - teamId)
