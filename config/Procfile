@@ -1,0 +1,1 @@
+web: java -jar target/cz.cvut.fel.nss.holidayPlanner-1.0.jar
